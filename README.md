@@ -35,7 +35,7 @@ Installation & Usage
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/medical-gen-ai.git
+git clone https://github.com/muqxt/B.E-Major-Project
 cd medical-gen-ai
 Install dependencies:
 
