@@ -18,16 +18,7 @@ Tech Stack
 5. Evaluation Metrics: Fréchet Inception Distance (FID), Structural Similarity Index (SSIM), and Peak Signal-to-Noise Ratio (PSNR).
 
 Repository Structure
-Plaintext
-├── data/               # Placeholder for raw and synthetic datasets
-├── notebooks/          # Jupyter notebooks for EDA and experimentation
-├── src/
-│   ├── models/         # Architecture definitions for GenAI and Classifiers
-│   ├── preprocessing/  # Data normalization and augmentation scripts
-│   └── utils/          # Helper functions for logging and visualization
-├── results/            # Performance plots and generated image samples
-├── requirements.txt    # Python dependencies
-└── main.py             # Entry point for training/evaluation
+main.py             # Entry point for training/evaluation
 Installation & Usage
 Clone the repository:
 
