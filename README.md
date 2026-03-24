@@ -1,9 +1,6 @@
 Enhancing Diagnostic Accuracy through Generative AI and Synthetic Data Generation for Robust Medical Imaging
 
-1. Project Overview:
- ~ Medical imaging models often suffer from performance degradation due to limited, imbalanced, or privacy-restricted datasets.
- ~ This project explores the use of Generative AI (GenAI) to produce high-fidelity synthetic medical images.
- ~ By augmenting real-world data with synthetic samples, we aim to improve the robustness and diagnostic accuracy of classification and segmentation models.
+1. Project Overview: Medical imaging models often suffer from performance degradation due to limited, imbalanced, or privacy-restricted datasets. This project explores the use of Generative AI (GenAI) to produce high-fidelity synthetic medical images. By augmenting real-world data with synthetic samples, we aim to improve the robustness and diagnostic accuracy of classification and segmentation models.
 
 2. Key Objectives:
 Data Synthesis: Leveraging architectures like GANs (Generative Adversarial Networks) or Diffusion Models to create realistic medical scans (e.g., X-ray, MRI, or CT).
